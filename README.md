@@ -1,2 +1,2 @@
 # Rules
-clash自用分流策略规则组
+clash自用分流策略组，对ACL4SSR-full修改而成。
