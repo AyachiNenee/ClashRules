@@ -1,2 +1,2 @@
 # Rules
-clash分流策略规则集
+clash自用分流策略规则组
